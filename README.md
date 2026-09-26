@@ -3,5 +3,5 @@
 Offizielle statische Website von RHYVEX Esports.
 
 - Discord: https://discord.gg/XjVKSTUKTa
-- Leader: TheHäänz / RVX Nate#RVX
+- Leader: RVX TheHäänz#RVX / RVX Nate#RVX
 - Hosting: GitHub Pages
